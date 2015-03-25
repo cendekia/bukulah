@@ -1,7 +1,7 @@
 # Bukulah
 Social Media for Education
 
-#Deskripsi
+###Deskripsi
 Bukulah adalah sebuah aplikasi pendidikan berbentuk sosial media, seperti layaknya fungsi media sosial pada umumnya, yaitu untuk membuat, membagi atau bertukar informasi. Tetapi dalam aplikasi 'bukulah' ini, lebih menekankan terhadap pendidikan yang bertujuan mempermudah kegiatan belajar mengajar bahkan 'mengawas'.
 
 Bukulah mempunyai 3 macam pengguna dan masing - masing pengguna berbeda baik dari peran dan fitur yang dapat digunakan:
@@ -20,10 +20,13 @@ Bukulah mempunyai 3 macam pengguna dan masing - masing pengguna berbeda baik dar
 		b. Fitur Rapor, yaitu rangkuman dari nilai-nilai siswa atau anak mereka di semua pelajaran.
 		c. Fitur Profil, berupa uraian tentang data diri orang tua yang sebagian sudah diisi saat mendaftar.
 
-#API (http://data.id)
+###API (http://data.id)
 Untuk Bukulah versi 0.1.0 ini, akan menggukan data daftar sekolah-sekolah SMP,SMK dan SMA se-Jakarta dari API yang di dapat dari
 http://data.go.id/api/3/action/datastore_search?resource_id=26dbe45b-d9a0-41f4-9ba1-d875a76c2090
 Dan data ini digunakan saat pendaftaran pengguna yaitu guru dan siswa.
 
-#Version 0.1.0 Beta
+###Version 0.1.0 Beta
 Dalam versi ini masih sangat terbatas fitur - fiturnya seperti yang sudah dijelaskan dibagian deskripsi dan baru bisa mencakup wilayah Jakarta saja.
+
+###License
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Bukulah</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/cendekia/bukulah" property="cc:attributionName" rel="cc:attributionURL">cendekia</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/cendekia/bukulah" rel="dct:source">https://github.com/cendekia/bukulah</a>.
