@@ -1,6 +1,9 @@
 # Bukulah
 Social Media for Education
 
+###Latar Belakang
+Berdasarkan data dari http://mashable.com/2013/08/05/most-used-smartphone-apps/ rata-rata penggunaan smartphone adalah untuk sosial media (selfie, update status, gosip, dll), pernahkan Anda berpikir bahwa smartphone/technology sebenarnya dapat mendukung generasi muda, terutama yang masih duduk dibangku sekolah, dari sisi pendidikan mereka, dan sebagai guru/pengajar pernahkah Anda terpikir suatu teknologi yang bisa membantu Anda dalam proses belajar mengajar, serta untuk para orang tua, pernahkah Anda terpikir bagaimana cara saya bisa tetap memonitor perkembangan pendidikan anak Anda ditengah kesibukan sehari-hari. Dan disini Kami tercetus sebuah ide untuk membuat sebuah ide untuk dapat mewujudkan hal itu semua melalui sebuah aplikasi pendidikan berbentuk sosial media bernama BUKULAH.
+
 ###Deskripsi
 Bukulah adalah sebuah aplikasi pendidikan berbentuk sosial media, seperti layaknya fungsi media sosial pada umumnya, yaitu untuk membuat, membagi atau bertukar informasi. Tetapi dalam aplikasi 'bukulah' ini, lebih menekankan terhadap pendidikan yang bertujuan mempermudah kegiatan belajar mengajar bahkan 'mengawas'.
 
